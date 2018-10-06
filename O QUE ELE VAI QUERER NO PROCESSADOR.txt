@@ -1,0 +1,13 @@
+ELE QUER UM PROCESSADOR DE 16 BITS
+
+fatorial (opcional)
+inteiro e ponto flutuante
+	soma
+	subtração
+	multiplicação pelo algoritmo de Booth
+salto
+beq
+bne
+set on less than
+load
+store
