@@ -1,13 +1,15 @@
 ELE QUER UM PROCESSADOR DE 16 BITS
 
 fatorial (opcional)
-inteiro e ponto flutuante
+R: inteiro e ponto flutuante
 	soma
 	subtração
 	multiplicação pelo algoritmo de Booth
-salto
-beq
-bne
-set on less than
-load
-store
+J: salto
+I: beq
+I: bne
+R: set on less than
+I: load
+I: store
+
+Total de 12 instruções
